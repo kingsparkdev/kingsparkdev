@@ -2,6 +2,8 @@
 
 ![kingsparkdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingsparkdev&show_icons=true&theme=synthwave)
 
+Visit My Blog => https://velog.io/@kingsparkdev
+
 <!--
 **kingsparkdev/kingsparkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
